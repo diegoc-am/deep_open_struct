@@ -1,5 +1,9 @@
 # DeepOpenStruct
 
+[![Build Status](https://travis-ci.com/belfazt/deep_open_struct.svg?branch=master)](https://travis-ci.com/belfazt/deep_open_struct)
+
+
+
 This gem converts a hash with its nested hashes into an OpenStruct like data structure
 
 ## Installation
